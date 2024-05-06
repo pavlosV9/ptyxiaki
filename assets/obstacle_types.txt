@@ -1,0 +1,1 @@
+2_wheel_vehicle,4_wheel_vehicle,advertisement_sign,bench,bin,boulder,bus_stop,chair,crack,crowded_pavement,fence,flower,hole_pot_hole,information_tourist_sign,light,litter,mail_box,narrow_pavement,no_pavement,parking_meter,parking_prevention_barrier,paver_broken,plant_pot,safety_sign,scaffolding,shrub,table,traffic_cone,tree,
